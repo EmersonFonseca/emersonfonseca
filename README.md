@@ -14,8 +14,8 @@
   ##
  
 <div> 
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511937342259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/emerson-fonseca-022926190/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emerson-fonseca-022926190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511937342259" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
  
   ![Snake animation](https://github.com/emersonfonseca/emersonfonseca/blob/output/github-contribution-grid-snake.svg)
